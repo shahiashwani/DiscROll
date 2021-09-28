@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "625653659535",
+    "project_id": "rollmydiscapp",
+    "storage_bucket": "rollmydiscapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625653659535:android:04907e913297cc461a7dfa",
+        "android_client_info": {
+          "package_name": "com.flutter.roll_my_dice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625653659535-0f6f8cv6sldk3f94fsqbif26avi585df.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.roll_my_dice",
+            "certificate_hash": "18cd6ac5295938fff8343aa58f77d074d82fbc2e"
+          }
+        },
+        {
+          "client_id": "625653659535-ifomooqfeqder5861jq01hqr98b8j7hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxHiUtyiof4cyr0SNMFLBOpHCNqBBwqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625653659535-ifomooqfeqder5861jq01hqr98b8j7hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
